@@ -46,4 +46,4 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 Добавили текст в новой ветки
 
-Разрешам конфликт
+Разрешам конфликт текст в браузере 
